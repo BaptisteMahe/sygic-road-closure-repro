@@ -23,5 +23,4 @@ To reproduce the bug using this project:
     - Now if you try to Start navigation again or load/clear the map corrections Sygic's routing won't respect them.
 
 Reproduction example:
-[example.mov](https://objectstorage.eu-paris-1.oraclecloud.com/p/aeM8-rmRRIv6odSob-U9qi-UMAw5trnFaCgsiUN-MBJ8e__t6Ugcx26ytue_v4ek/n/axcbk7kkisob/b/external_content/o/sygic-repro-example.mov)
-
+![](https://objectstorage.eu-paris-1.oraclecloud.com/p/aeM8-rmRRIv6odSob-U9qi-UMAw5trnFaCgsiUN-MBJ8e__t6Ugcx26ytue_v4ek/n/axcbk7kkisob/b/external_content/o/sygic-repro-example.mov)
