@@ -17,9 +17,9 @@ To reproduce the bug using this project:
 - Start the project on _android studio_ launching the application on an _emulator_.
 - Set the emulator GPS position at _8 Route De La Pinière, 33910 Saint-Denis-de-Pile_ (lat: 44.99843, lon: -0.15698).
 - When Sygic is ready:
-  - If you try the button on the left (load, clear and start) you can see that Sygic is behaving well and respecting the road closures.
+  - If you try the buttons on the left (load, clear and start) you can see that Sygic is behaving well and respecting the road closures.
   - When you click on _Break state_
-    - (In my testing it's almost 100% of the time but not this could result in some rare cases in a non broken state) 
+    - (In my testing it's almost every time but not 100% that it result in a broken state)
     - Now if you try to Start navigation again or load/clear the map corrections Sygic's routing won't respect them.
 
 Reproduction example:
