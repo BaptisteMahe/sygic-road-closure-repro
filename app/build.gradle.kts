@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.unicofrance.sygic_road_closure_repro"
+    namespace = "com.unico.dev.appmobile"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.unicofrance.sygic_road_closure_repro"
+        applicationId = "com.unico.dev.appmobile"
         minSdk = 28
         targetSdk = 35
         versionCode = 1
